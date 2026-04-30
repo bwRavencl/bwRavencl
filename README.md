@@ -11,7 +11,7 @@ I'm passionate about all things flying - from simulators and RC planes to aviati
 [ControllerBuddy](https://controllerbuddy.org), a game controller mapping tool crafted specifically for flight simulators. It's where my love for coding and flight intersect.
 
 ### 🌍 Outside of coding and flying...
-I enjoy time with my fiancée, cuddle our cat, dive into history, jam to 80s rock and pop, enjoy ice skating, and geek out over computer history and open-source software.
+I enjoy time with my wife, cuddle our cat, dive into history, jam to 80s rock and pop, enjoy ice skating, and geek out over computer history and open-source software.
 
 ### 📫 You can reach me...
 Via the [official Discord](https://discord.gg/2Sg9ggZrAp) for anything ControllerBuddy-related, or by email for everything else.
